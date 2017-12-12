@@ -74,6 +74,7 @@ This code book summarizes the resulting data fields in `tidy.txt`.
 "FrequencyBodyAccelerometerMagnitudemean"     
 "FrequencyBodyAccelerometerMagnitudestd"
 "FrequencyBodyAccelerometerJerkMagnitudemean"
+
 "FrequencyBodyAccelerometerJerkMagnitudestd"  
 "FrequencyBodyGyroscopeMagnitudemean"       
 "FrequencyBodyGyroscopeMagnitudestd"          
