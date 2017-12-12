@@ -1,8 +1,8 @@
 # Code Book
 
-This code book summarizes the resulting data fields in `tidy.txt`.
+This code book provided details on the included `tidydata.txt` file.
 
-## Identifiers
+## Base Identifiers
 
 * `SubjectID` - The ID of the test subject
 * `ActivityID` - The ID of the Activity performed
@@ -81,7 +81,7 @@ This code book summarizes the resulting data fields in `tidy.txt`.
 * FrequencyBodyGyroscopeJerkMagnitudestd 
 
 
-## Activity Lookup
+## Activity Lookup 
 
 * `WALKING` (ID `1`): subject was walking during the test
 * `WALKING_UPSTAIRS` (ID `2`): subject was walking up a staircase during the test
